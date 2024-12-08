@@ -1,5 +1,8 @@
 # ALX Listing App
 
+![Use case diagram](https://res.cloudinary.com/djmrrgdtu/image/upload/v1733681816/Screenshot_2024-12-08_191539_r8pv9o.png)
+
+
 ## Project Description
 The **ALX Listing App** is a web-based application designed to mimic an Airbnb-style listing page. 
 The app showcases property listings with key details such as images, pricing, and descriptions. 
